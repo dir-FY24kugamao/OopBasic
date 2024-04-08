@@ -22,6 +22,6 @@ public class ObjectSample {
         // インスタンスメソッドの呼び出し
         engineer.report();
         engineer.joinMeeting();
-    }
+   　}
 
 }
